@@ -37,6 +37,7 @@ int main(){
 	xptr = &x;
 	
 	
+	
 	printf("x degiskeninin degeri: %d\n", x);
 	printf("x degiskeninin adresi: %p\n", &x);
 	
